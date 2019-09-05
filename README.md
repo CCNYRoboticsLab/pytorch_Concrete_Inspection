@@ -57,6 +57,9 @@ If you are interested in this project, please check the [project link](https://e
 2) Put the data in folder SPallData
 
 3) run script:
+
+### No need to download the data now, just run the following scipt
+
 > - python3 main.py
 
 ## test
